@@ -8,4 +8,4 @@ This project supports **SDG 3 (Good Health and Well-being)** by promoting early 
 
 **Impact**: By modelling patterns of diabetes risk, healthcare providers can improve patient outcomes through targeted interventions, encourage lifestyle changes before severe complications occur, and reduce the long-term economic and societal burden of diabetes.
 
-[Dataset info & index](https://www.notion.so/Dataset-info-index-26698c6768cd808388b0c1a44bb97556?pvs=21)
+[Dataset info, index and stakeholder report][(https://www.notion.so/Dataset-info-index-26698c6768cd808388b0c1a44bb97556?pvs=21)](https://www.notion.so/IC2-Classification-Machine-Learning-Predicting-diabetes-risk-from-demographic-and-health-factors-26698c6768cd80b19de1d7ce6b864816?source=copy_link)
